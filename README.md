@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Abhishek Dinesan. A 19 year old CS / BBA Double Degree Student at University of Waterloo and Wilfrid Laurier
-- 👀 My skills lie in front-end development, particularly through React.Js.
-- 🌱 Currently trying to learn more about quantitative finance.
-- 📫 Link me through linkedin, https://www.linkedin.com/in/abhishekdinesan/
+- 👋 Hey, hows it going?
+- 👀 2A CS/BBA Double Degree Student. CS @Uwaterloo, BBA @ULaurier
+- 🌱 Skillset: React.Js, React Native, C, Python
 
 <p align="center">
   <a href="https://skillicons.dev">
