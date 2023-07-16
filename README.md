@@ -1,6 +1,7 @@
 - 👋 Hey, hows it going?
 - 👀 2A CS/BBA Double Degree Student. CS @Uwaterloo, BBA @ULaurier
-- 🌱 Skillset: React.Js, React Native, C, Python
+- 🌱 Skillset: C, Javascript, Python, SQL, HTML/CSS
+- 🛠️ Libraries/Frameworks/Tools: React.js, React Native, .NET, Bootstrap
 
 <p align="center">
   <a href="https://skillicons.dev">
