@@ -2,6 +2,7 @@
 - 👀 2A CS/BBA Double Degree Student. CS @Uwaterloo, BBA @ULaurier
 - 🌱 Skillset: C, Javascript, Python, SQL, HTML/CSS
 - 🛠️ Libraries/Frameworks/Tools: React.js, React Native, .NET, Bootstrap
+- 💸 Interested in software impacting finance
 
 <p align="center">
   <a href="https://skillicons.dev">
