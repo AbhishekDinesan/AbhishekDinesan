@@ -1,11 +1,11 @@
 - 👋 Hey, hows it going?
-- 👀 2A CS/BBA Double Degree Student. CS @Uwaterloo, BBA @ULaurier
+- 👀 2A CS/BBA Double Degree Student. CS @UWaterloo, BBA @ULaurier
 - 🌱 Skillset: C, Javascript, Python, SQL, HTML/CSS
-- 🛠️ Libraries/Frameworks/Tools: React.js, React Native, .NET, Bootstrap
+- 🛠️ Libraries/Frameworks/Tools: React.js, React Native, Tailwind CSS, .NET, Bootstrap, Beautiful Soup, Pandas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,java,c,cpp,cs,python,mysql,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,java,c,cs,python,mysql,linux,vim" />
   </a>
 </p>
 
