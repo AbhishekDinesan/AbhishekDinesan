@@ -12,7 +12,7 @@
 - 📚 Currently exploring neural networks and LSTM applications in finance through Andrew Ng Deep Learning Courses.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,java,c,cs,python,mysql,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,react,django,html,css,tailwind, c,cpp,mysql" />
   </a>
 </p>
 
