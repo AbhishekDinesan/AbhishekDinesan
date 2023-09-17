@@ -7,18 +7,20 @@
 </h3>
 
 - 👀 2A **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
-- 🌱 Skills: JavaScript, Python, C, C++,SQL/MySQL,HTML/CSS
-- 🛠️ Libraries/Frameworks: React.js, React Native, Django, Tailwind CSS
-- 📚 Relevent Coursework: Object-Oriented Programming (CS246), CS136 (Algorithim Design), CS136L (Tools/Techniques for Software Dev), CO250 (Introduction to Mathematical Optimization)
-- 💡 Currently exploring Neural Networks and Deep Learning with Andrew Ng's Deep Learning Specialization
+- 🌱 **Skills:** JavaScript, Python, C, C++,SQL/MySQL,HTML/CSS
+- 🛠️ **Libraries/Frameworks:** React.js, React Native, Django, Tailwind CSS
+- 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), CS136 (Algorithim Design), CS136L (Tools/Techniques for Software Dev), CO250 (Introduction to Mathematical Optimization)
+- 💡 Currently exploring **Neural Networks** and **Deep Learning** with Andrew Ng's Deep Learning Specialization
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,react,django,html,css,tailwind, c,cpp,mysql" />
   </a>
 </p>
 
+<div align="center">
+  Always open to chat ☕ I'm available on <a href="https://www.linkedin.com/in/abhishekdinesan">LinkedIn</a>
+</div>
 
- Always open to chat ☕, I'm available on [Linkedin](www.linkedin.com/in/abhishekdinesan)
 
 
 <!---
