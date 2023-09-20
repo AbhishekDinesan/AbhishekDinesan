@@ -9,7 +9,7 @@
 - 👀 2A **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
 - 🌱 **Skills:** JavaScript, Python, C, C++,SQL/MySQL,HTML/CSS
 - 🛠️ **Libraries/Frameworks:** React.js, React Native, Django, Tailwind CSS
-- 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), CS136 (Algorithim Design), CS136L (Tools/Techniques for Software Dev), CO250 (Introduction to Mathematical Optimization)
+- 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), Intro to Mathematical Optimization (CO250), Algorithim Design (CS136), Tools/Techniques for Software Devs (CS136L), Financial Management I (BU283), Financial Accounting (BU127)
 - 💡 Currently exploring **Neural Networks** and **Deep Learning** with Andrew Ng's Deep Learning Specialization
 <p align="center">
   <a href="https://skillicons.dev">
