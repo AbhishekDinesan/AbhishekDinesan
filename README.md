@@ -18,7 +18,8 @@
 </p>
 
 <div align="center">
-  Always open to chat ☕ I'm available on <a href="https://www.linkedin.com/in/abhishekdinesan">LinkedIn</a>
+  Always open to chat (honestly) ☕ I'm available on <a href="https://www.linkedin.com/in/abhishekdinesan">LinkedIn</a>. <br>
+  Want to help me get a job? Here's my <a href="https://drive.google.com/file/d/1vacPMGIL8zC0K0YhTkP5SxcqpAJ0JmUK/view?usp=sharing">Resume</a>. <br>
 </div>
 
 
