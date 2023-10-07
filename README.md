@@ -3,14 +3,14 @@
 </h1>
 
 <h3 align="center">
-  Full Stack | Data | Finance
+  Bridging Software & Business
 </h3>
 
 - 👀 2A **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
 - 🌱 **Skills:** JavaScript, Python, C, C++, SQL/MySQL, HTML/CSS
 - 🛠️ **Libraries/Frameworks:** React.js, React Native, Django, Tailwind CSS
 - 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), Intro to Mathematical Optimization (CO250), Algorithim Design (CS136), Tools/Techniques for Software Devs (CS136L), Financial Management I (BU283), Financial Accounting (BU127)
-- 💡 Currently exploring **Neural Networks** and **Deep Learning** with Andrew Ng's Deep Learning Specialization
+- 💡 Currently persuing an AWS Cloud Certification
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,react,django,html,css,tailwind, c,cpp,mysql" />
