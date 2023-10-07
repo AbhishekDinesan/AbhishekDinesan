@@ -10,7 +10,7 @@
 - 🌱 **Skills:** JavaScript, Python, C, C++, SQL/MySQL, HTML/CSS
 - 🛠️ **Libraries/Frameworks:** React.js, React Native, Django, Tailwind CSS
 - 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), Intro to Mathematical Optimization (CO250), Algorithim Design (CS136), Tools/Techniques for Software Devs (CS136L), Financial Management I (BU283), Financial Accounting (BU127)
-- 💡 Currently persuing an AWS Cloud Certification
+- 💡 Currently exploring the cloud through AWS Cloud Practioner Certification
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,react,django,html,css,tailwind, c,cpp,mysql" />
