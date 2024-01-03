@@ -6,7 +6,7 @@
   Bridging Software & Business
 </h3>
 
-- 👀 2A **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
+- 👀 2B **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
 - 🌱 **Skills:** Python, C++, JavaScript, C, SQL/MySQL, HTML/CSS
 - 🛠️ **Libraries/Frameworks:** React.js, React Native, Django, Tailwind CSS
 - 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), Intro to Mathematical Optimization (CO250), Algorithim Design (CS136), Tools/Techniques for Software Devs (CS136L), Financial Management I (BU283), Financial Accounting (BU127)
