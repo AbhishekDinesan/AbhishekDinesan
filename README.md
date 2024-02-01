@@ -9,7 +9,7 @@
 - 👀 2B **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
 - 🌱 **Skills:** Python, C++, JavaScript, C, SQL/MySQL, HTML/CSS
 - 🛠️ **Libraries/Frameworks:** React.js, React Native, Django, Tailwind CSS
-- 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), Intro to Mathematical Optimization (CO250), Algorithim Design (CS136), Tools/Techniques for Software Devs (CS136L), Financial Management I (BU283), Financial Accounting (BU127)
+- 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), Logic & Computation (CS245), Intro to Mathematical Optimization (CO250), Algorithim Design (CS136), , Financial Management I (BU283), Financial Accounting (BU127)
 - 💡 Currently working on making my own guitar tuner
 <p align="center">
   <a href="https://skillicons.dev">
