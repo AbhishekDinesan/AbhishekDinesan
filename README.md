@@ -7,10 +7,9 @@
 </h3>
 
 - 👀 2B **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
-- 🌱 **Skills:** Python, C++, JavaScript, C, SQL/MySQL, HTML/CSS
-- 🛠️ **Libraries/Frameworks:** React.js, React Native, Django, Tailwind CSS
+- 🌱 **Skills:**  Python, JavaScript, C#, C++, SQL, HTML/CSS
+- 🛠️ **Tools/Libraries/Frameworks:** AWS, React.js, React Native, .NET Framework, Node.js, Express.js, MongoDB
 - 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), Logic & Computation (CS245), Intro to Mathematical Optimization (CO250), Algorithim Design (CS136), , Financial Management I (BU283), Financial Accounting (BU127)
-- 💡 Currently working on making my own guitar tuner
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,react,django,html,css,tailwind, c,cpp,mysql" />
