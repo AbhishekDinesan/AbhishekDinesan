@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Bridging Software & Business
+  Software, Data and Product.
 </h3>
 
 - 👀 2B **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
