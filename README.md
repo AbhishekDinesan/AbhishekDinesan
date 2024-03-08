@@ -8,7 +8,7 @@
 
 - 👀 2B **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
 - 🌱 **Skills:**  Python, JavaScript, C#, C++, SQL
-- 🛠️ **Tools/Libraries/Frameworks:** AWS, React.js, React Native, .NET Framework, Node.js, Express.js, MongoDB
+- 🛠️ **Tools/Libraries/Frameworks:** AWS, React Native, .NET Framework, MERN
 - 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), Logic & Computation (CS245), Intro to Mathematical Optimization (CO250), Algorithim Design (CS136), , Financial Management I (BU283), Financial Accounting (BU127)
 <p align="center">
   <a href="https://skillicons.dev">
