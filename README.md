@@ -19,7 +19,7 @@
 
 <div align="center">
   Always open to chat (honestly) ☕ I'm available on <a href="https://www.linkedin.com/in/abhishekdinesan">LinkedIn</a>. <br>
-  Want to help me get a job? Here's my Resume. <br>
+  Want to help me get a job? Here's my <a href = "https://drive.google.com/file/d/1VSyTJCxtwStIZJhO7uIz5g_zCl0ax4p9/view?usp=sharing">Resume.</a>. <br>
 </div>
 
 
