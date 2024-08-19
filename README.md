@@ -6,7 +6,7 @@
   Software, Data and Product.
 </h3>
 
-- 👀 2B **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
+- 👀 Third-year **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
 - 🌱 **Skills:**  Python, JavaScript, C#, C++, SQL
 - 🧩 **Libraries/Frameworks:** MERN, .NET, React Native, Flask
 - 🛠️ **Tools:** AWS, Postman, Bash, MSSQL
