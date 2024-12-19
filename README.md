@@ -1,16 +1,16 @@
 <h1 align="center">
-  👋 Hey, I'm Abhishek Dinesan.
+  👋 Hey, I'm Abhi.
 </h1>
 
 <h3 align="center">
-  Software, Data and Product.
+  Software and Optimization.
 </h3>
 
-- 👀 Third-year **CS/BBA **Double Degree**** Student. CS @UWaterloo, BBA @ULaurier
-- 🌱 **Skills:**  Python, JavaScript, C#, C++, SQL
-- 🧩 **Libraries/Frameworks:** MERN, .NET, React Native, Flask
-- 🛠️ **Tools:** AWS, Postman, Bash, MSSQL
-- 📚 **Relevent Coursework**: Object-Oriented Programming (CS246), Logic & Computation (CS245), Mathematical Optimization (CO250), Algorithim Design (CS136), Financial Management I (BU283), Financial Accounting (BU127)
+- 👀 3B **CS/BBA **Double Degree**** Student. CS+CO @UWaterloo, BBA @ULaurier
+- 🌱 **Skills:**  Python, JavaScript, C#, C++, PostgreSQL
+- 🧩 **Libraries/Frameworks:** React, Express, .NET, React Native, Flask
+- 🛠️ **Tools:** AWS, Postman, Bash, Linux
+- 📚 **Relevent Coursework**: Non-Linear Optimization (CO367), Algorithms (CS341), Data Structures (CS240), Linear Programming (CO250), Object-Oriented Programming (CS246), Corporate Finance II (BU393)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,react,django,c,cpp,mysql" />
