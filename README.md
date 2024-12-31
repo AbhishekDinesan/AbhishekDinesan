@@ -10,7 +10,7 @@
 - 🌱 **Skills:** Python, JavaScript, C++, PostgreSQL, SQL
 - 🧩 **Libraries/Frameworks:** React, Express, .NET, React Native, Flask
 - 🛠️ **Tools:** AWS, Postman, Bash, Linux, PgAdmin, MySQL Workbench
-- 📚 **Relevant Coursework:** Non-Linear Optimization (CO367), Algorithms (CS341), Data Structures (CS240), Linear Programming (CO250), Object-Oriented Programming (CS246) 
+- 📚 **Relevant Coursework:** Non-Linear Optimization (CO367), Algorithms (CS341), Data Structures (CS240), OOP (CS246) 
 - 💼 **Experience:** Product Engineering @ OTPP (C#, .NET, Flask, Dapr, Kubernetes), SWE @ Titl (Python, Vertex AI, Document AI)
 
 <p align="center">
