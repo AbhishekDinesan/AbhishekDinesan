@@ -10,7 +10,10 @@
 - 🧩 **Libraries/Frameworks:** React, Flask, Express, .NET, React Native
 - 🛠️ **Tools:** Postgres, Docker, AWS Amplify
 - 📚 **Relevant Coursework:** Non-Linear Optimization (CO367), Algorithms (CS341), Data Structures (CS240), OOP (CS246) 
-- 💼 **Experience:** Product Engineering @ OTPP (C#, .NET, Dapr, Kubernetes), SWE @ Titl (Python, Vertex AI, Document AI)
+- 💼 **Experience:**
+  - Software Engineer @ Tradable Bits (Flask, PostgreSQL, Javascript, HTML/CSS)
+  - Product Engineering @ OTPP (C#, .NET, Dapr, Kubernetes)
+  - SWE @ Titl (Python, Vertex AI, Document AI)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdinesan&theme=tokyonight" alt="mystreak"/> <br>
