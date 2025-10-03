@@ -3,17 +3,17 @@
 </h1>
 
 <h3 align="center">
-  3B CS/BBA Double Degree Student
+  4A CS/BBA Double Degree Student
 </h3>
 
-- 🌱 **Skills:** Python, JavaScript, C++, SQL
-- 🧩 **Libraries/Frameworks:** React, Flask, Express, .NET, React Native
-- 🛠️ **Tools:** Postgres, Docker, AWS Amplify
+- 🌱 **Skills:** Python, C++, Javascript, SQL
+- 🧩 **Libraries/Frameworks:** Typescript/React, Flask, Ruby On Rails
+- 🛠️ **Tools:** PostgreSQL, Redis, Docker, AWS, LangChain, Pinecone
 - 📚 **Relevant Coursework:** Non-Linear Optimization (CO367), Algorithms (CS341), Data Structures (CS240), OOP (CS246) 
 - 💼 **Experience:**
+  - Software Engineer @ Tesla (Python, Ruby on Rails, TypeScript) 
   - Software Engineer @ Tradable Bits (Flask, PostgreSQL, Javascript, HTML/CSS)
   - Product Engineering @ OTPP (C#, .NET, Dapr, Kubernetes)
-  - SWE @ Titl (Python, Vertex AI, Document AI)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdinesan&theme=tokyonight" alt="mystreak"/> <br>
