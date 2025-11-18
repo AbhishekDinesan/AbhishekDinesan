@@ -7,11 +7,11 @@
 </h3>
 
 - 🌱 **Skills:** Python, C++, Javascript, SQL
-- 🧩 **Libraries/Frameworks:** Typescript/React, Flask, Ruby On Rails
-- 🛠️ **Tools:** PostgreSQL, Redis, Docker, AWS, LangChain, Pinecone
+- 🧩 **Libraries/Frameworks:** Typescript/React, Flask, Rails
+- 🛠️ **Tools:** PostgreSQL, Redis, Docker, AWS, Kubernetes
 - 📚 **Relevant Coursework:** Non-Linear Optimization (CO367), Algorithms (CS341), Data Structures (CS240), OOP (CS246) 
 - 💼 **Experience:**
-  - Software Engineer @ Tesla (Python, Ruby on Rails, TypeScript) 
+  - Software Engineer @ Tesla (Python, Ruby on Rails, Postgres + pgvector, React.js) 
   - Software Engineer @ Tradable Bits (Flask, PostgreSQL, Javascript, HTML/CSS)
   - Product Engineering @ OTPP (C#, .NET, Dapr, Kubernetes)
 
